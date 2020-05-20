@@ -1,0 +1,11 @@
+.redscale,
+.greenscale,
+.bluescale {
+  display: flex;
+  align-items: center;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+}
